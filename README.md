@@ -1,4 +1,4 @@
-# Assignment 1 -- Programming Part [20 points]
+# Assignment 1
 
 Given you have:
  * a fill-in the gap question file *question.in* that contains a text with some gaps,
